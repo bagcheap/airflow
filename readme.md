@@ -12,7 +12,7 @@ Download the files locally and run the following set of commands
 
 1. Warnings show up as you are running pip as a root. Haven't resolved it.
 2. Warnings on missing apt-utils can be ignored.
-3. Hardwired for Aitflow 1.10.14! You need to edit the files to advance versions (including constraints file URL in Dockerfile)
+3. Hardwired for Airflow 1.10.14! You need to edit the files to advance versions (including constraints file URL in Dockerfile)
 
 
 
